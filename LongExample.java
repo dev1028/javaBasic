@@ -1,9 +1,9 @@
 
 public class LongExample{
 	public static void main(String[] args){
-		long num1 = 100;
-		long num2 = 20;
-		long num3 = 1000000000000000000L;
+		// long num1 = 100;
+		// long num2 = 20;
+		// long num3 = 1000000000000000000L;
 		
 		int num4 = Integer.MAX_VALUE;
 		int num5 = 1;

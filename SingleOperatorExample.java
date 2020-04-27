@@ -25,7 +25,5 @@ public class SingleOperatorExample{
 		boolean isTrue = false;
 		isTrue = !isTrue;
 		
-		byte bit1 = 10;
-		
 	}
 }
