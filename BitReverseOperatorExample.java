@@ -4,6 +4,7 @@ public class BitReverseOperatorExample {
 		int v1 = 10;
 		int v2 = ~v1;
 		int v3 = v2 + 1;
+		
 		String returnValue = toBinaryString(v1);
 		System.out.println(returnValue);
 
