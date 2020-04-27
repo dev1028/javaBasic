@@ -1,4 +1,4 @@
-
+//java1 add
 public class BitReverseOperatorExample{
 	public static void main(String[] args){
 		int v1 = 10;
